@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'CustomUser'
 ]
+AUTH_USER_MODEL = 'CustomUser.User'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -83,9 +86,9 @@ WSGI_APPLICATION = 'MarirsApp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Marirs',
+        'NAME': 'DBmarirs',
         'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'PASSWORD': 'shahid',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }

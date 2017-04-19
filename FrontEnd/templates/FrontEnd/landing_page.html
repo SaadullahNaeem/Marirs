@@ -1,7 +1,7 @@
 {% load staticfiles %}
 <html lang="en" >
 <head>
-    <base href="./"/>
+
     <meta charset="utf-8">
     <title> SmartAdmin </title>
     <meta name="description" content="">
@@ -20,6 +20,7 @@
 
     <!-- SmartAdmin RTL Support  -->
     <link rel="stylesheet" type="text/css" media="screen" href="{% static 'app/css/smartadmin-rtl.min.css'%}">
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'app/css/smartadmin-angular.css'%}">
 
     <!-- We recommend you use "your_style.css" to override SmartAdmin
          specific styles this will also ensure you retrain your customization with each SmartAdmin update.
@@ -57,6 +58,70 @@
 <div ui-view ></div>
 
 
+<script data-pace-options='{ "restartOnRequestAfter": true }' src="{% static 'app/js/plugin/pace/pace.min.js'%}"></script>
+
+<!-- Link to Google CDN's jQuery + jQueryUI; fall back to local -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
+
+<!-- IMPORTANT: APP CONFIG -->
+<script src="{% static 'app/js/app.config.js'%}"></script>
+
+<!-- JS TOUCH : include this plugin for mobile drag / drop touch events-->
+<script src="{% static 'app/js/plugin/jquery-touch/jquery.ui.touch-punch.min.js'%}"></script>
+
+<!-- BOOTSTRAP JS -->
+<script src="{% static 'app/js/bootstrap/bootstrap.min.js'%}"></script>
+
+<!-- CUSTOM NOTIFICATION -->
+<script src="{% static 'app/js/notification/SmartNotification.min.js'%}"></script>
+
+<!-- JARVIS WIDGETS -->
+<script src="{% static 'app/js/smartwidgets/jarvis.widget.min.js'%}"></script>
+
+<!-- EASY PIE CHARTS -->
+<script src="{% static 'app/js/plugin/easy-pie-chart/jquery.easy-pie-chart.min.js'%}"></script>
+
+<!-- SPARKLINES -->
+<script src="{% static 'app/js/plugin/sparkline/jquery.sparkline.min.js'%}"></script>
+
+<!-- JQUERY VALIDATE -->
+<script src="{% static 'app/js/plugin/jquery-validate/jquery.validate.min.js'%}"></script>
+
+<!-- JQUERY MASKED INPUT -->
+<script src="{% static 'app/js/plugin/masked-input/jquery.maskedinput.min.js'%}"></script>
+
+<!-- JQUERY SELECT2 INPUT -->
+<script src="{% static 'app/js/plugin/select2/select2.min.js'%}"></script>
+
+<!-- JQUERY UI + Bootstrap Slider -->
+<script src="{% static 'app/js/plugin/bootstrap-slider/bootstrap-slider.min.js'%}"></script>
+
+<!-- browser msie issue fix -->
+<script src="{% static 'app/js/plugin/msie-fix/jquery.mb.browser.min.js'%}"></script>
+
+<!-- FastClick: For mobile devices -->
+<script src="{% static 'app/js/plugin/fastclick/fastclick.min.js'%}"></script>
+
+<!--[if IE 8]>
+
+		<h1>Your browser is out of date, please update your browser by going to www.microsoft.com/download</h1>
+
+		<![endif]-->
+
+<!-- Demo purpose only -->
+<script src="{% static 'app/js/demo.min.js'%}"></script>
+
+<!-- MAIN APP JS FILE -->
+<script src="{% static 'app/js/app.min.js'%}"></script>
+
+<!-- ENHANCEMENT PLUGINS : NOT A REQUIREMENT -->
+<!-- Voice command : plugin -->
+<script src="{% static 'app/js/speech/voicecommand.min.js'%}"></script>
+
 <!-- Angular.js Libraries -->
 <script src="{% static 'node_modules/angular/angular.js' %}"></script>
 <script src="{% static 'node_modules/angular-touch/angular-touch.js' %}"></script>
@@ -87,77 +152,6 @@
 <!--================================================== -->
 
 <!-- PACE LOADER - turn this on if you want ajax loading to show (caution: uses lots of memory on iDevices)-->
-<script data-pace-options='{ "restartOnRequestAfter": true }' src="{% static 'app/smartjs/plugin/pace/pace.min.js'%}"></script>
-
-<!-- Link to Google CDN's jQuery + jQueryUI; fall back to local -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script>
-    if (!window.jQuery) {
-        document.write('<script src="{% static 'app/smartjs/libs/jquery-2.1.1.min.js'%}"><\/script>');
-    }
-</script>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-<script>
-    if (!window.jQuery.ui) {
-        document.write('<script src="{% static 'app/smartjs/libs/jquery-ui-1.10.3.min.js'%}"><\/script>');
-    }
-</script>
-
-<!-- IMPORTANT: APP CONFIG -->
-<script src="{% static 'app/smartjs/app.config.js'%}"></script>
-
-<!-- JS TOUCH : include this plugin for mobile drag / drop touch events-->
-<script src="{% static 'app/smartjs/plugin/jquery-touch/jquery.ui.touch-punch.min.js'%}"></script>
-
-<!-- BOOTSTRAP JS -->
-<script src="{% static 'app/smartjs/bootstrap/bootstrap.min.js'%}"></script>
-
-<!-- CUSTOM NOTIFICATION -->
-<script src="{% static 'app/smartjs/notification/SmartNotification.min.js'%}"></script>
-
-<!-- JARVIS WIDGETS -->
-<script src="{% static 'app/smartjs/smartwidgets/jarvis.widget.min.js'%}"></script>
-
-<!-- EASY PIE CHARTS -->
-<script src="{% static 'app/smartjs/plugin/easy-pie-chart/jquery.easy-pie-chart.min.js'%}"></script>
-
-<!-- SPARKLINES -->
-<script src="{% static 'app/smartjs/plugin/sparkline/jquery.sparkline.min.js'%}"></script>
-
-<!-- JQUERY VALIDATE -->
-<script src="{% static 'app/smartjs/plugin/jquery-validate/jquery.validate.min.js'%}"></script>
-
-<!-- JQUERY MASKED INPUT -->
-<script src="{% static 'app/smartjs/plugin/masked-input/jquery.maskedinput.min.js'%}"></script>
-
-<!-- JQUERY SELECT2 INPUT -->
-<script src="{% static 'app/smartjs/plugin/select2/select2.min.js'%}"></script>
-
-<!-- JQUERY UI + Bootstrap Slider -->
-<script src="{% static 'app/smartjs/plugin/bootstrap-slider/bootstrap-slider.min.js'%}"></script>
-
-<!-- browser msie issue fix -->
-<script src="{% static 'app/smartjs/plugin/msie-fix/jquery.mb.browser.min.js'%}"></script>
-
-<!-- FastClick: For mobile devices -->
-<script src="{% static 'app/smartjs/plugin/fastclick/fastclick.min.js'%}"></script>
-
-<!--[if IE 8]>
-
-		<h1>Your browser is out of date, please update your browser by going to www.microsoft.com/download</h1>
-
-		<![endif]-->
-
-<!-- Demo purpose only -->
-<script src="{% static 'app/smartjs/demo.min.js'%}"></script>
-
-<!-- MAIN APP JS FILE -->
-<script src="{% static 'app/smartjs/app.min.js'%}"></script>
-
-<!-- ENHANCEMENT PLUGINS : NOT A REQUIREMENT -->
-<!-- Voice command : plugin -->
-<script src="{% static 'app/smartjs/speech/voicecommand.min.js'%}"></script>
 
 <!-- SmartChat UI : plugin -->
 {#<script src="{% static 'app/smartjs/smart-chat-ui/smart.chat.ui.min.js'%}"></script>#}

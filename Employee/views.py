@@ -30,6 +30,23 @@ class EmployeeCreate(FormView):
                 return Response({'errors': {'__all__': ['Email Already Exist']}},
                              status=status.HTTP_200_OK)
         else:
+                PA = get_data['permanent_address']
+                EA = get_data['provide_accommodation']
+                ET = get_data['provide_trans']
+                if EA == 'true':
+                    EA = bool('true')
+                else:
+                    EA = bool('')
+                if PA == 'true':
+                    PA = bool('true')
+                else:
+                    PA =bool('')
+                if ET == 'true':
+                     ET = bool('true')
+                else:
+                     ET = bool('')
+
+
                 get_obj = Employee.objects.create(
                 first_name=get_data['first_name'],
                 last_name=get_data['last_name'],
@@ -39,7 +56,7 @@ class EmployeeCreate(FormView):
                 status=get_data['status'],
                 Termination_date=get_data['Termination_date'],
                 present_address=get_data['present_address'],
-                permanent_address=get_data['permanent_address'],
+                permanent_address= PA,
                 blood_group=get_data['blood_group'],
                 home_phone=get_data['home_phone'],
                 Cell_phone=get_data['Cell_phone'],
@@ -50,8 +67,8 @@ class EmployeeCreate(FormView):
                 emp_package=get_data['emp_package'],
                 base_salary=get_data['base_salary'],
                 variable_salary=get_data['variable_salary'],
-                provide_accommodation=get_data['provide_accommodation'],
-                provide_trans=get_data['provide_trans'],
+                provide_accommodation=EA,
+                provide_trans=ET,
                 emp_type=get_data['emp_type'],
                 emp_dept=get_data['emp_dept'],
                 emp_designation=get_data['emp_designation'],

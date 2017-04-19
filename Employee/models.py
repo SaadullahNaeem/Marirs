@@ -25,7 +25,7 @@ class Employee(models.Model):
     last_name = models.CharField(max_length=100, blank=False)
     email = models.EmailField(max_length=100, blank=False)
     joining_date = models.DateField( blank=True)
-    Joined_date = models.DateField( blank=True)
+    Joined_date = models.DateField(null=True, blank=True)
     Termination_date = models.DateField( blank=False)
     status = models.CharField(max_length=100,choices=choices, blank=False)
     present_address = models.TextField(max_length=300, blank=False)

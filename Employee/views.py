@@ -19,68 +19,25 @@ from django.shortcuts import render
 
 # Create your views here.
 class EmployeeCreate(FormView):
+    form_class = EmployeeCreationForm
     @method_decorator(csrf_exempt)
     def dispatch(self, request, *args, **kwargs):
         return super(EmployeeCreate, self).dispatch(request, *args, **kwargs)
 
     def post(self, request, *args, **kwargs):
         get_data = request.POST
-
-        if Employee.objects.filter(email__exact=get_data['email']).exists():
+        form = EmployeeCreationForm(request.POST or None)
+        if form.is_valid():
+            if Employee.objects.filter(email__exact=get_data['email']).exists():
                 return Response({'errors': {'__all__': ['Email Already Exist']}},
                              status=status.HTTP_200_OK)
-        else:
-                PA = get_data['permanent_address']
-                EA = get_data['provide_accommodation']
-                ET = get_data['provide_trans']
-                if EA == 'true':
-                    EA = bool('true')
-                else:
-                    EA = bool('')
-                if PA == 'true':
-                    PA = bool('true')
-                else:
-                    PA =bool('')
-                if ET == 'true':
-                     ET = bool('true')
-                else:
-                     ET = bool('')
-
-
-                get_obj = Employee.objects.create(
-                first_name=get_data['first_name'],
-                last_name=get_data['last_name'],
-                middle_name = get_data['middle_name'],
-                joining_date=get_data['joining_date'],
-                email=get_data['email'],
-                status=get_data['status'],
-                Termination_date=get_data['Termination_date'],
-                present_address=get_data['present_address'],
-                permanent_address= PA,
-                blood_group=get_data['blood_group'],
-                home_phone=get_data['home_phone'],
-                Cell_phone=get_data['Cell_phone'],
-                emergency_contact_person=get_data['emergency_contact_person'],
-                emergency_contact_number=get_data['emergency_contact_number'],
-                passport_no=get_data['passport_no'],
-                driving_license_no=get_data['driving_license_no'],
-                emp_package=get_data['emp_package'],
-                base_salary=get_data['base_salary'],
-                variable_salary=get_data['variable_salary'],
-                provide_accommodation=EA,
-                provide_trans=ET,
-                emp_type=get_data['emp_type'],
-                emp_dept=get_data['emp_dept'],
-                emp_designation=get_data['emp_designation'],
-                emp_manager_name=get_data['emp_manager_name'],
-                emp_group=get_data['emp_group'],
-
-                )
-                get_obj.save()
+            else:
+                form.save()
                 fname = get_data['first_name']
                 lname = get_data['last_name']
                 makepass = str(fname)+str(lname)
                 user = User.objects.create(first_name=get_data['first_name'],
+                                       username=str(get_data['first_name'])+str(get_data['last_name']),
                                        last_name=get_data['last_name'],
                                        email=get_data['email'],
                                        password=make_password(makepass),
@@ -89,7 +46,9 @@ class EmployeeCreate(FormView):
                 user.save()
                 return Response({'result': 'success'},
                             status=status.HTTP_200_OK)
-
+        else:
+            return Response({'result': 'error'},
+                            status=status.HTTP_200_OK)
 
 
 class EmployeeList(generics.ListAPIView):
@@ -102,5 +61,5 @@ class EmployeeList(generics.ListAPIView):
 class EmployeeDetail(generics.ListAPIView):
     serializer_class = EmployeeSerializer
 
-    def get_object(self):
-        return Employee.objects.get(id=self.kwargs['pk'])
+    def get_queryset(self):
+        return Employee.objects.filter(id=self.kwargs['pk'])

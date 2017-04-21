@@ -14,6 +14,7 @@ from Employee.serelizers import EmployeeSerializer
 from .forms import *
 from .models import *
 from CustomUser.models import User
+from .serelizers import *
 
 from django.shortcuts import render
 
@@ -33,6 +34,15 @@ class EmployeeCreate(FormView):
                              status=status.HTTP_200_OK)
             else:
                 form.save()
+                deptfk = get_data['dept_fk']
+                EG = get_data['emp_group']
+                userid = request.user.id
+                empobj = Employee.objects.get(id = get_data['id'])
+                empobj.dept_fk_id = deptfk
+                empobj.user_id = userid
+                empobj.emp_group_fk_id = EG
+                empobj.save()
+
                 fname = get_data['first_name']
                 lname = get_data['last_name']
                 makepass = str(fname)+str(lname)
@@ -63,3 +73,51 @@ class EmployeeDetail(generics.ListAPIView):
 
     def get_queryset(self):
         return Employee.objects.filter(id=self.kwargs['pk'])
+
+
+class DepartmentAdd(FormView):
+    form_class = AddDepartmentForm
+
+    @method_decorator(csrf_exempt)
+    def dispatch(self, request, *args, **kwargs):
+        return super(DepartmentAdd, self).dispatch(request, *args, **kwargs)
+
+    def post(self, request, *args, **kwargs):
+        form = AddDepartmentForm(request.POST)
+        if form.is_valid():
+            form.save()
+
+        else:
+            return Response({'result': 'Form is not valid'},
+                            status=status.HTTP_200_OK)
+
+
+class EmployeeGroupAdd(FormView):
+    form_class = AddEmployeeForm
+
+    @method_decorator(csrf_exempt)
+    def dispatch(self, request, *args, **kwargs):
+        return super(EmployeeGroupAdd, self).dispatch(request, *args, **kwargs)
+
+    def post(self, request, *args, **kwargs):
+        form = AddEmployeeForm(request.POST)
+        if form.is_valid():
+            form.save()
+
+        else:
+            return Response({'result': 'Form is not valid'},
+                            status=status.HTTP_200_OK)
+
+
+class EmplyoeGroupGet(generics.ListAPIView):
+    serializer_class = EmployeeGroupGetSerializer
+
+    def get_queryset(self):
+         return EmployeeGroup.objects.exclude(name__contains='HR')
+
+
+class EmplyoeDeptGet(generics.ListAPIView):
+    serializer_class = DepartmentGetSerializer
+
+    def get_queryset(self):
+        return Department.objects.all()

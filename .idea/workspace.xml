@@ -2,863 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedadb33-5512-4e7c-8365-1c3b49178e7f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/controllers/dashboardController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/controllers/loginController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/controllers/logoutController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/controllers/signupController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/demo.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/invoice.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/lockscreen.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-angular.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production-plugins.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-skins.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/css/your_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/factories/authFact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/font-awesome/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/font-awesome/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/font-awesome/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/font-awesome/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/font-awesome/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.2/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/fontawesome4.5/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/summernote.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/summernote.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/fonts/summernote.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/copyright.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/female.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/male.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/sunny-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/avatars/sunny.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/clear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/colorblind-friendly/pt1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/colorblind-friendly/pt2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/colorblind-friendly/pt3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/basic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/copyright.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/demo-smartbig-alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/demo-smartmedium-alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/demo-smartsmall-alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/detail-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/detail-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/e-comm/detail-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/hero.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/image-placeholder-64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/iphoneview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-collapse-minified.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-hidden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-menutop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-rtl-menutop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/layout-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-material.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-pixel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/layout-skins/skin-ultralight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/m1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/m2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/m3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/newsletter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/responseimg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/s1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/s2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/s3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/sa-demo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/sample.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/sidebar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/sidebarhero.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/site-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/site-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/demo/widget-colorpicker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/dropzone/spritemap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/dropzone/spritemap@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/favicon/1favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/favicon/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/favicon/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/flags/de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/flags/es.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/flags/flags.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/flags/us.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/glass-image-copyright.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/glass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/gradient/login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/hue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/invoice/americanexpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/invoice/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/invoice/mastercard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/invoice/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/invoice/visa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jcrop/Jcrop.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_flat_0_999999_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_428bca_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_555555_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_999999_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_f0ad4e_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_f6cf3b_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/jqueryui/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo-blacknwhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo-o.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo-pale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/mappin-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/mybg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/divider.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/graphy-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/graphy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/license-info.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/lightpaperfibers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/movable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/nistri-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/nistri.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/overlay-pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/paper-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/sneaker_mesh_fabric-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/sneaker_mesh_fabric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/tileable_wood_texture-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/pattern/tileable_wood_texture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/realestate/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sa-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sa-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/saturation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/select2-spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/sort_desc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/ipad-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/ipad-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/sptouch-icon-iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/touch-icon-ipad-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/touch-icon-ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/splash/touch-icon-iphone-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-20-bw.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-full-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/superbox/superbox-thumb-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/ajaxversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/angularversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/dotnetversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/htmlversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/phpversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/versions/reactversion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/violate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/voicecommand/active-btn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/img/vt-menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/angular-cookie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/angular-messages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/angular-ui-router.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/app.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/app.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/bootstrap/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/demo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/libs/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/libs/jquery-2.1.1.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/libs/jquery-ui-1.10.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/notification/SmartNotification.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-duallistbox/jquery.bootstrap-duallistbox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-progressbar/bootstrap-progressbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-slider/bootstrap-slider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-tags/bootstrap-tagsinput-angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-tags/bootstrap-tagsinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-tags/dist/bootstrap-tagsinput.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-timepicker/bootstrap-timepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrap-wizard/jquery.bootstrap.wizard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstraptree/bootstrap-tree.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/bootstrapValidator.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/ar_MA.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/be_NL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/bg_BG.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/cs_CZ.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/da_DK.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/de_DE.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/en_US.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/es_CL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/es_ES.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/fr_FR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/gr_EL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/hu_HU.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/it_IT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/nl_NL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/pl_PL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/pt_BR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/tr_TR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/vi_VN.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/zh_CN.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/bootstrapvalidator/language/zh_TW.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/chartjs/chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/CHANGES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/adapters/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/build-config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/ckeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/contents.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/bn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/en-au.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/en-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/en-gb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/fo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ka.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sr-latn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/colordialog/dialogs/colordialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/div/dialogs/div.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/fakeobjects/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/find/dialogs/find.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/flash/dialogs/flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/flash/images/placeholder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/checkbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/hiddenfield.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/radio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/textarea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/dialogs/textfield.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/forms/images/hiddenfield.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/icons_hidpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/iframe/dialogs/iframe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/iframe/images/placeholder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/image/images/noimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/link/images/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/liststyle/dialogs/liststyle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/pagebreak/images/pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/preview/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/scayt/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_address.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_blockquote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_div.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_h6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/showblocks/images/block_pre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/dialogs/smiley.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/angel_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/angry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/broken_heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/confused_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/cry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/devil_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/embaressed_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/embarrassed_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/envelope.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/kiss.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/lightbulb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/omg_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/regular_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/sad_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/shades_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/teeth_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/thumbs_down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/thumbs_up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/tongue_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/tounge_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/smiley/images/wink_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/dialogs/templates.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/dialogs/templates.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/templates/default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/templates/images/template1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/templates/images/template2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/templates/templates/images/template3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/tmp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/appendto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/inlineall/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/sample.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/assets/uilanguages/languages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/datafiltering.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/divreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/inlineall.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/inlinebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/inlinetextarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/dialog/dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/enterkey/enterkey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/magicline/magicline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/toolbar/toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/readonly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/replacebyclass.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/replacebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/sample.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/sample_posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/tabindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/uicolor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/uilanguages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/samples/xhtmlstyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/dialog_opera.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/images/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/skins/moono/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ckeditor/styles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/clockpicker/clockpicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/colorpicker/bootstrap-colorpicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/cssemotions/jquery.cssemoticons.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatable-responsive/datatables.responsive.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/dataTables.bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/dataTables.colReorder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/dataTables.colVis.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/dataTables.tableTools.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/swf/copy_csv_xls.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/datatables/swf/copy_csv_xls_pdf.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/delete-table-row/delete-table-row.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/dropzone/dropzone-amd-module.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/dropzone/dropzone.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/dygraphs/demo-data.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/dygraphs/dygraph-combined.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/easy-pie-chart/jquery.easy-pie-chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/fastclick/fastclick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.colorhelpers.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.canvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.categories.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.crosshair.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.cust.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.errorbars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.fillbetween.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.image.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.navigate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.orderBar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.pie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.resize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.selection.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.stack.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.symbol.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.threshold.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.time.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/flot/jquery.flot.tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/fuelux/wizard/wizard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/fullcalendar/-jquery.fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/fullcalendar/jquery.fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/gmap3/gmap3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/highChartCore/highcharts-custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/highchartTable/jquery.highchartTable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ie-placeholder_/jquery.placeholder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ion-slider/ion.rangeSlider-backup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/ion-slider/ion.rangeSlider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jcrop/jquery.Jcrop.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jcrop/jquery.color.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jqgrid/grid.locale-en.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jqgrid/jquery.jqGrid.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jquery-form/jquery-form.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jquery-nestable/jquery.nestable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jquery-touch/jquery.ui.touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/jquery-validate/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/js-migrate/jquery-migrate-1.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/knob/jquery.knob.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/markdown/bootstrap-markdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/markdown/markdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/markdown/to-markdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/masked-input/jquery.maskedinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/maxlength/bootstrap-maxlength.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/moment/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/morris/morris-chart-settings.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/morris/morris.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/morris/raphael.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/msie-fix/jquery.mb.browser.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/multiselect/bootstrap-multiselect.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/noUiSlider/jquery.nouislider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/noUiSlider/jquery.nouislider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/pace/pace.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/select2/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/select2/select2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/selectToUISlider/selectToUISlider.jQuery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/slimscroll/jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/sparkline/jquery.sparkline.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/summernote/summernote.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/superbox/superbox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/throttle-denounce/jquery.ba-throttle-debounce.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/typeahead/typeahead.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/typeahead/typeaheadjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/vectormap/jquery-jvectormap-1.1.1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/vectormap/jquery-jvectormap-1.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/vectormap/jquery-jvectormap-1.2.2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/vectormap/jquery-jvectormap-1.2.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/vectormap/jquery-jvectormap-world-mill-en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/x-editable/jquery.mockjax.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/x-editable/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/plugin/x-editable/x-editable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/smart-chat-ui/smart.chat.manager.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/smart-chat-ui/smart.chat.ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/smartwidgets/jarvis.widget.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/js/speech/voicecommand.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/services/auth.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/services/social.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/views/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/views/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/app/views/signup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/angular-animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/angular-animate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/angular-animate.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-animate/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/angular-aria.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/angular-aria.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/angular-aria.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-aria/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/demo/demo-app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/demo/demo-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/demo/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/dist/angular-local-storage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/dist/angular-local-storage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/dist/angular-local-storage.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/src/angular-local-storage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/test/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/test/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/test/mock/localStorageMock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-local-storage/test/spec/localStorageSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/angular-route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/angular-route.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/angular-route.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-route/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/angular-sanitize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/angular-sanitize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/angular-sanitize.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-sanitize/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/angular-touch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/angular-touch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/angular-touch.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular-touch/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/angular/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/css/font-awesome.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/static/node_modules/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/templates/FrontEnd/landing_page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/views.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CustomUser/models.py" afterPath="$PROJECT_DIR$/CustomUser/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Employee/forms.py" afterPath="$PROJECT_DIR$/Employee/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Employee/models.py" afterPath="$PROJECT_DIR$/Employee/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Employee/serelizers.py" afterPath="$PROJECT_DIR$/Employee/serelizers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Employee/urls.py" afterPath="$PROJECT_DIR$/Employee/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Employee/views.py" afterPath="$PROJECT_DIR$/Employee/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarirsApp/settings.py" afterPath="$PROJECT_DIR$/MarirsApp/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarirsApp/urls.py" afterPath="$PROJECT_DIR$/MarirsApp/urls.py" />
     </list>
     <ignored path="marirsrepo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -885,21 +34,11 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CustomUser/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="211">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomUser/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -915,52 +54,22 @@
         </entry>
       </file>
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomUser/models.py">
+        <entry file="file://$PROJECT_DIR$/Employee/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarirsApp/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#24#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MarirsApp/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomUser/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Employee/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="195">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -971,8 +80,8 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Employee/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -983,10 +92,22 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Employee/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+            <state relative-caret-position="225">
+              <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serelizers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Employee/serelizers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1021,14 +142,14 @@
         <option value="$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production-plugins.min.css" />
         <option value="$PROJECT_DIR$/FrontEnd/static/app/views/dashboard.html" />
         <option value="$PROJECT_DIR$/FrontEnd/templates/FrontEnd/landing_page.html" />
-        <option value="$PROJECT_DIR$/Employee/serelizers.py" />
-        <option value="$PROJECT_DIR$/Employee/urls.py" />
-        <option value="$PROJECT_DIR$/Employee/models.py" />
-        <option value="$PROJECT_DIR$/Employee/forms.py" />
-        <option value="$PROJECT_DIR$/Employee/views.py" />
         <option value="$PROJECT_DIR$/CustomUser/models.py" />
         <option value="$PROJECT_DIR$/MarirsApp/urls.py" />
         <option value="$PROJECT_DIR$/MarirsApp/settings.py" />
+        <option value="$PROJECT_DIR$/Employee/serelizers.py" />
+        <option value="$PROJECT_DIR$/Employee/forms.py" />
+        <option value="$PROJECT_DIR$/Employee/views.py" />
+        <option value="$PROJECT_DIR$/Employee/models.py" />
+        <option value="$PROJECT_DIR$/Employee/urls.py" />
       </list>
     </option>
   </component>
@@ -1069,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1087,9 +209,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marirsrepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marirsrepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Employee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marirsrepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marirsrepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1377,24 +526,24 @@
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35059762" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15537849" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.038748138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51266766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1562,121 +711,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/controllers/dashboardController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/controllers/loginController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/views/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/services/auth.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/apps.py" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/controllers/dashboardController.js" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/controllers/loginController.js" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/views/login.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/services/auth.service.js" />
     <entry file="file://$USER_HOME$/.virtualenvs/marirsvenv/local/lib/python2.7/site-packages/rest_framework/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="487" column="33" selection-start-line="487" selection-start-column="33" selection-end-line="487" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/smartjs/demo.min.js" />
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-skins.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="684" selection-start-line="3" selection-start-column="684" selection-end-line="3" selection-end-column="684" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/your_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="586" selection-start-line="6" selection-start-column="586" selection-end-line="6" selection-end-column="586" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/demo.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/js/demo.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="128322" selection-start-line="22" selection-start-column="128322" selection-end-line="22" selection-end-column="128322" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production-plugins.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/views/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-skins.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/your_style.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/demo.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/js/demo.min.js" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/css/smartadmin-production-plugins.min.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/static/app/views/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/Employee/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1698,100 +755,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Employee/serelizers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Employee/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/marirsvenv/local/lib/python2.7/site-packages/django/views/generic/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/templates/FrontEnd/landing_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="169" column="38" selection-start-line="169" selection-start-column="38" selection-end-line="169" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Employee/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Employee/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Employee/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/templates/FrontEnd/landing_page.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/views.py" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/urls.py" />
     <entry file="file://$PROJECT_DIR$/CustomUser/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CustomUser/serilizers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1804,9 +781,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MarirsApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarirsApp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CustomUser/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="211">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
@@ -1816,27 +811,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CustomUser/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarirsApp/urls.py">
+    <entry file="file://$PROJECT_DIR$/CustomUser/serilizers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee/serelizers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarirsApp/settings.py">
+    <entry file="file://$PROJECT_DIR$/Employee/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
